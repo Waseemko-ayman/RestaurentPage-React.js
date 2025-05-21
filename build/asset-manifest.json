@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/RestaurentPage-React.js/static/css/main.2cc65fc1.css",
+    "main.js": "/RestaurentPage-React.js/static/js/main.846a5293.js",
+    "static/media/secondayBG.gif": "/RestaurentPage-React.js/static/media/secondayBG.494212487ca77f63180b.gif",
+    "static/media/landing.png": "/RestaurentPage-React.js/static/media/landing.60fdc30123c22a6d87c7.png",
+    "static/media/goes-img.png": "/RestaurentPage-React.js/static/media/goes-img.6db26e335998b7bd03e0.png",
+    "static/media/blogs-1.png": "/RestaurentPage-React.js/static/media/blogs-1.31c87802d9cfabe74a4b.png",
+    "static/media/blogs-2.png": "/RestaurentPage-React.js/static/media/blogs-2.f3356dc3f881a6cb83b9.png",
+    "static/media/blogs-3.png": "/RestaurentPage-React.js/static/media/blogs-3.ecc4b0bb6cb549530e4d.png",
+    "static/media/about-img.png": "/RestaurentPage-React.js/static/media/about-img.789febea257736ced7bf.png",
+    "static/media/Knot.png": "/RestaurentPage-React.js/static/media/Knot.bec7af4b4d669ea0daf1.png",
+    "static/media/Ellipse 2.png": "/RestaurentPage-React.js/static/media/Ellipse 2.525c33be78fe377ea9f1.png",
+    "static/media/Ellipse 1.png": "/RestaurentPage-React.js/static/media/Ellipse 1.c2ffa4766c42bf961f98.png",
+    "static/media/food-11.png": "/RestaurentPage-React.js/static/media/food-11.ca48dce4e1d351efdae6.png",
+    "static/media/food-6.png": "/RestaurentPage-React.js/static/media/food-6.ca48dce4e1d351efdae6.png",
+    "static/media/food-12.png": "/RestaurentPage-React.js/static/media/food-12.748d526287f063adc190.png",
+    "static/media/food-3.png": "/RestaurentPage-React.js/static/media/food-3.748d526287f063adc190.png",
+    "static/media/food-1.png": "/RestaurentPage-React.js/static/media/food-1.5887df4a61944cc97a55.png",
+    "static/media/food-10.png": "/RestaurentPage-React.js/static/media/food-10.5887df4a61944cc97a55.png",
+    "static/media/food-5.png": "/RestaurentPage-React.js/static/media/food-5.21d013861a52884ca0e2.png",
+    "static/media/food-7.png": "/RestaurentPage-React.js/static/media/food-7.21d013861a52884ca0e2.png",
+    "static/media/food-4.png": "/RestaurentPage-React.js/static/media/food-4.3b543f56a8c29a7dd184.png",
+    "static/media/food-8.png": "/RestaurentPage-React.js/static/media/food-8.3b543f56a8c29a7dd184.png",
+    "static/media/instagram.svg": "/RestaurentPage-React.js/static/media/instagram.968a09ef7e98c6a22a8d46ff4a6382bf.svg",
+    "static/media/twitter.svg": "/RestaurentPage-React.js/static/media/twitter.1668cab01e418451e023f11de847e835.svg",
+    "index.html": "/RestaurentPage-React.js/index.html",
+    "static/media/logo.svg": "/RestaurentPage-React.js/static/media/logo.3ee98014aabadbdc97229940297aaef9.svg",
+    "static/media/phone.svg": "/RestaurentPage-React.js/static/media/phone.a5fdddf56b560615063563bd9f43b1fe.svg",
+    "static/media/youtube.svg": "/RestaurentPage-React.js/static/media/youtube.f4bf266d20135107d69c2144c74df090.svg",
+    "static/media/icon-location.svg": "/RestaurentPage-React.js/static/media/icon-location.26376d86109d98c0ed71d8577c81a960.svg",
+    "static/media/mail.svg": "/RestaurentPage-React.js/static/media/mail.6cb10374a7d29687265126223988d94b.svg",
+    "static/media/icon-search.svg": "/RestaurentPage-React.js/static/media/icon-search.53979dde3d9705a9a47b96f668c0e344.svg",
+    "static/media/star.svg": "/RestaurentPage-React.js/static/media/star.f9ec02e498388b7a0ffc904b9722a470.svg",
+    "static/media/mail-2.svg": "/RestaurentPage-React.js/static/media/mail-2.82ae54b5bfaac466bcd214ac75007ffe.svg",
+    "main.2cc65fc1.css.map": "/RestaurentPage-React.js/static/css/main.2cc65fc1.css.map",
+    "main.846a5293.js.map": "/RestaurentPage-React.js/static/js/main.846a5293.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cc65fc1.css",
+    "static/js/main.846a5293.js"
+  ]
+}
