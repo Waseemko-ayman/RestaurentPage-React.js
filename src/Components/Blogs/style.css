@@ -1,6 +1,11 @@
 .blogs .blog-boxs .box {
-  background: rgba(16, 20, 24, 0.70);
+  background: rgba(16, 20, 24, 0.7);
   position: relative;
+  transition: all 0.3s;
+}
+
+.blogs .blog-boxs .box:hover {
+  background-color: rgb(160, 128, 64, 0.7);
 }
 
 .blogs .blog-boxs .box img {
@@ -13,7 +18,7 @@
 }
 
 .blogs .blog-boxs .box .info h3 {
-  color: #FFFFFC;
+  color: #fffffc;
   font-size: 22px;
   font-style: normal;
   font-weight: 700;
@@ -22,7 +27,7 @@
 }
 
 .blogs .blog-boxs .box .info p {
-  color: #FFFFFC;
+  color: #fffffc;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -33,7 +38,9 @@
 }
 
 .blogs .blog-boxs .box .info button {
-  color: #FFFFFC;
+  color: #fffffc;
+  background-color: transparent;
+  padding: 0px 20px 5px 0px;
   font-size: 14px;
   font-style: normal;
   font-weight: 400;
@@ -42,7 +49,6 @@
   text-transform: capitalize;
   border: none;
   outline: none;
-  background: transparent;
   cursor: pointer;
-  border-bottom: 1px solid #FFCE6D;
+  border-bottom: 1px solid #ffce6d;
 }

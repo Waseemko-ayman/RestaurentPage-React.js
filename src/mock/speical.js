@@ -1,6 +1,6 @@
-import OrangeJuice from "../assest/orange-juice.png";
-import Cefe1 from "../assest/chef.png";
-import Restaurant from "../assest/restaurant.png";
+import OrangeJuice from "../assets/orange-juice.png";
+import Cefe1 from "../assets/chef.png";
+import Restaurant from "../assets/restaurant.png";
 
 const SPECIAL_DATA = [
   {

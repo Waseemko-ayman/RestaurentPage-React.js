@@ -13,16 +13,10 @@
 
 .reviews .review-boxs::-webkit-scrollbar {
   width: 15px;
-  height: 12px;
+  height: 6px;
 }
 
 .reviews .review-boxs::-webkit-scrollbar-thumb {
   background: #A08040;
   border-radius: 20px;
 }
-
-/* @media (max-width: 992px) {
-  .reviews .review-boxs {
-    flex-direction: column;
-  }
-} */

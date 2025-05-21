@@ -1,0 +1,18 @@
+button.btn_component {
+  max-width: 100%;
+  width: 215px;
+  height: 55px;
+  font-size: 18px;
+  font-weight: 700;
+  outline: none;
+  background-color: transparent;
+  color: #ffffff;
+  border: 2px solid #ffffff;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+button:hover {
+  background-color: #a08040;
+  color: #ffffff;
+}

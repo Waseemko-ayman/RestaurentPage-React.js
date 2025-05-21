@@ -1,6 +1,6 @@
-import BLOGS_IMAGE1 from "../assest/blogs-1.png";
-import BLOGS_IMAGE2 from "../assest/blogs-2.png";
-import BLOGS_IMAGE3 from "../assest/blogs-3.png";
+import BLOGS_IMAGE1 from "../assets/blogs-1.png";
+import BLOGS_IMAGE2 from "../assets/blogs-2.png";
+import BLOGS_IMAGE3 from "../assets/blogs-3.png";
 
 const BLOGS_DATA = [
   {

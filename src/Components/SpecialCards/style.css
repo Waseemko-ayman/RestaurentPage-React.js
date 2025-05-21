@@ -9,6 +9,11 @@
   flex-direction: column;
   gap: 15px;
   text-align: center;
+  transition: all 0.3s;
+}
+
+.card:hover {
+  transform: translateY(-10px);
 }
 
 .card img {

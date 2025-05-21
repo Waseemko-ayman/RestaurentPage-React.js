@@ -12,7 +12,7 @@ ul {
 body {
   font-family: 'Roboto', sans-serif;
   scroll-behavior: smooth;
-  background-image: url('../src/assest/secondayBG.gif');
+  background-image: url('../src/assets/secondayBG.gif');
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -22,5 +22,5 @@ body {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #A08040; 
+  background: #a08040;
 }

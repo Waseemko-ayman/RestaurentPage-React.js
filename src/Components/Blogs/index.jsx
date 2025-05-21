@@ -1,7 +1,6 @@
-import React from 'react'
-import "./style.css";
+import './style.css';
 
-const BlogsComponent = ({blogImage, title, description, buttonText}) => {
+const BlogsComponent = ({ blogImage, title, description, buttonText }) => {
   return (
     <div className="box">
       <img src={blogImage} alt="food" />
@@ -11,7 +10,7 @@ const BlogsComponent = ({blogImage, title, description, buttonText}) => {
         <button>{buttonText}</button>
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default BlogsComponent
+export default BlogsComponent;

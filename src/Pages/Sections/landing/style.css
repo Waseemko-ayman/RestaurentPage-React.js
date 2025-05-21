@@ -1,6 +1,6 @@
 .landing {
-  background: 
-  linear-gradient(180deg, rgba(16, 20, 24, 0.00) 0%, #101418 100%), url("../../../assest/landing.png");
+  background: linear-gradient(180deg, rgba(16, 20, 24, 0) 0%, #101418 100%),
+    url('../../../assets/landing.png');
   background-size: cover;
   background-repeat: no-repeat;
   height: 100vh;

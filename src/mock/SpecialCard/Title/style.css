@@ -1,0 +1,24 @@
+.title_section {
+  margin-bottom: 70px;
+}
+
+.title_section h2 {
+  color: #ffce6d;
+  text-align: center;
+  font-size: 36px;
+  font-family: 'Dancing Script';
+  font-weight: 700;
+  line-height: 117.3%;
+  letter-spacing: 3.6px;
+}
+
+.title_section p {
+  color: '#FFFFFC';
+  text-align: 'center';
+  font-size: '30px';
+  font-family: 'Roboto';
+  font-weight: '700';
+  line-height: '117.3%';
+  text-transform: 'capitalize';
+  margin-top: '15px';
+}

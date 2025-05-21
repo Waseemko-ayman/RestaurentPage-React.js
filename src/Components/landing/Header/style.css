@@ -5,6 +5,10 @@ header .links {
   justify-content: space-between;
 }
 
+header .links {
+  flex: 1;
+}
+
 header {
   color: white;
   max-width: 100%;
@@ -26,15 +30,23 @@ header {
   header {
     width: 100%;
   }
+}
+
+@media (max-width: 426px) {
   header .links {
-    padding: 0 10px;
+    padding-top: 15px;
+  }
+  header .links img.logo {
+    max-width: 100%;
+    width: 59px;
   }
 }
 
-header .links {
-  max-width: 100%;
-  width: 100%;
+header nav {
   flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
 }
 
 header ul {
@@ -44,13 +56,29 @@ header ul {
 }
 
 header ul li a {
-  color: #FFC;
-  font-size: 18px;
+  position: relative;
+  color: #ffc;
+  font-size: 19px;
+  padding-bottom: 5px;
   font-style: normal;
-  font-weight: 700;
   line-height: normal;
   text-decoration: none;
   cursor: pointer;
+}
+
+header ul li a::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 0;
+  height: 1px;
+  background-color: #ffc;
+  transition: all 0.3s;
+}
+
+header ul li a:hover::after {
+  width: 100%;
 }
 
 @media (max-width: 991px) {
@@ -59,10 +87,15 @@ header ul li a {
   }
 }
 
-header ul li img {
+header nav img {
   max-width: 100%;
   width: 24px;
   cursor: pointer;
+  transition: all 0.3s;
+}
+
+header nav img:hover {
+  transform: scale(1.1);
 }
 
 @media (max-width: 768px) {
@@ -74,8 +107,8 @@ header ul li img {
 header .btn button {
   max-width: 100%;
   height: 76px;
-  color: #FFFFFF;
-  background-color: #A08040;
+  color: #ffffff;
+  background-color: #a08040;
   font-size: 21px;
   font-weight: 700;
   outline: none;
@@ -86,6 +119,7 @@ header .btn button {
   align-items: center;
   justify-content: center;
   gap: 10px;
+  transition: all 0.3s;
 }
 
 @media (min-width: 846px) {
@@ -106,4 +140,8 @@ header .btn button span {
   width: 35px;
   height: 2px;
   background-color: white;
+}
+
+header .btn:hover button {
+  letter-spacing: 2px;
 }

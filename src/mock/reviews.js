@@ -1,7 +1,7 @@
-import Person1 from "../assest/Ellipse 1.png";
-import Person2 from "../assest/Ellipse 1.png";
-import Person3 from "../assest/Ellipse 2.png";
-import STAR_IMAGE from "../assest/star.svg";
+import Person1 from "../assets/Ellipse 1.png";
+import Person2 from "../assets/Ellipse 1.png";
+import Person3 from "../assets/Ellipse 2.png";
+import STAR_IMAGE from "../assets/star.svg";
 
 const REVIEWS_DATA = [
   {

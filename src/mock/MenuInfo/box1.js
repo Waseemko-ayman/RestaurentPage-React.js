@@ -1,9 +1,9 @@
-import Food1 from "../../assest/food-1.png";
-import Food2 from "../../assest/food-2.png";
-import Food3 from "../../assest/food-3.png";
-import Food4 from "../../assest/food-4.png";
-import Food5 from "../../assest/food-5.png";
-import Food6 from "../../assest/food-6.png";
+import Food1 from "../../assets/food-1.png";
+import Food2 from "../../assets/food-2.png";
+import Food3 from "../../assets/food-3.png";
+import Food4 from "../../assets/food-4.png";
+import Food5 from "../../assets/food-5.png";
+import Food6 from "../../assets/food-6.png";
 
 const MENU_BOX1 = [
   {

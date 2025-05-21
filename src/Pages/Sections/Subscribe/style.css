@@ -16,7 +16,7 @@
   }
 }
 
-.subscribe .text, 
+.subscribe .text,
 .subscribe form {
   display: flex;
   align-items: center;
@@ -40,7 +40,7 @@
 }
 
 .subscribe .text h2 {
-  color: #FFFFFC;
+  color: #fffffc;
   font-size: 20px;
   font-style: normal;
   font-weight: 700;
@@ -60,24 +60,28 @@
 }
 
 .subscribe form input {
-  color: #FFFFFC;
-  font-size: 12px;
+  color: #fffffc;
+  font-size: 13px;
   max-width: 100%;
   width: 407px;
-  height: 55px;
-  padding: 18px 71px 17px 34px;
+  padding: 15px 20px;
   background: transparent;
   outline: none;
   border: none;
-  border: 1px solid #FFC;
+  border: 1px solid #ffc;
   font-style: normal;
   font-weight: 300;
   line-height: 155.3%;
   letter-spacing: 1.56px;
 }
 
+.subscribe form button {
+  height: 100%;
+  padding: 13px 0px;
+}
+
 @media (max-width: 768px) {
   .subscribe form input {
-    width: 307px;
+    width: 250px;
   }
 }
