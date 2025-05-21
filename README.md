@@ -14,5 +14,5 @@ Mohammed shoman | 23 Jun
 - Strive for pixel-perfection in implementing the design.
 - Avoid duplicating code or repeating yourself throughout the project.
 
-### Figma Design:
+## Figma Design:
 https://www.figma.com/file/cXOOtmCWwf5vFUaCBeN3fs/Vegan-Restaurtant-website-(Community)?t=gfdfNaJCL5DGbc6Z-0
