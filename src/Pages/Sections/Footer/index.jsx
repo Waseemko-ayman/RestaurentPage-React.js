@@ -1,5 +1,4 @@
 import './style.css';
-import LOGO from '../../../assets/logo.svg';
 import INESTAGRAM from '../../../assets/instagram.svg';
 import TWITTER from '../../../assets/twitter.svg';
 import YOUTUBE from '../../../assets/youtube.svg';
@@ -14,7 +13,7 @@ const Footer = () => {
       <Container flex>
         <div className="box">
           <div className="title">
-            <img src={LOGO} alt="logo" />
+            <img src="/logo.svg" alt="logo" />
             <h2>Golden View Dine</h2>
           </div>
           <p>

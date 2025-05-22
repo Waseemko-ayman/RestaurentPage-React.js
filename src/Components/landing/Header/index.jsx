@@ -1,12 +1,11 @@
-import logo from '../../../assets/logo.svg';
 import iconSearch from '../../../assets/icon-search.svg';
 import './style.css';
 
 const Header = () => {
   return (
     <header id="#home">
-      <div className='links'>
-        <img src={logo} alt="logo" className='logo' />
+      <div className="links">
+        <img src="/logo.svg" alt="logo" className="logo" />
         <nav>
           <ul>
             <li>
